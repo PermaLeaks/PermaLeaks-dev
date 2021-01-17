@@ -18,18 +18,18 @@ PermaLeaks improvement proposals are inspired from <a href="https://eips.ethereu
 
 **torweave - Permaleaks Platform**
 
-- torweave traction:
-* initial package realease: 0.1.0 ✔️
-* Large Arweave API support: ⏳
+1- torweave traction:
+  * initial package realease: 0.1.0 ✔️
+  * Large Arweave API support: ⏳
 
 
-- Permaleaks Platform traction:
-* <a href="https://github.com/PermaLeaks/Registration-Protocol">Registration Protocol:</a> ✔️
-* Publishing Protocol: ⏳
-* Profit Sharing Community: ⏳
-* Platform UI - alpha: ⏳
-* Proof Of Reability: planning 
+2- Permaleaks Platform traction:
+  * <a href="https://github.com/PermaLeaks/Registration-Protocol">Registration Protocol:</a> ✔️
+  * Publishing Protocol: ⏳
+  * Profit Sharing Community: ⏳
+  * Platform UI - alpha: ⏳
+  * Proof Of Reability: planning 
 
 <h1>community contributions: </h1>
 Permaleaks welcome any kind of contribution (technical / non-technical) if it meets the minimum requirements and add enhacements for the protocol.
-contributions will be monetized after the launch of protocols's *Profit Sharing community (PSC)*
+contributions will be monetized after the launch of protocols's *Profit Sharing community (PSC)*.
