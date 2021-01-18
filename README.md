@@ -27,7 +27,7 @@ PermaLeaks improvement proposals are inspired from <a href="https://eips.ethereu
   * <a href="https://github.com/PermaLeaks/Registration-Protocol">Registration Protocol:</a> ✔️
   * Publishing Protocol: ⏳
   * Profit Sharing Community: ⏳
-  * Platform UI - alpha: ⏳
+  * Permaleaks Explorer: ⏳
   * Proof Of Reability: planning 
 
 <h1>community contributions: </h1>
